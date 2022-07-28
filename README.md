@@ -4,3 +4,4 @@
 ### 47.4 Arrays and Linked Lists
 ### 47.5 Stacks and Queues Exercise
 ### 47.6 Recursion
+### 47.8 Trees
