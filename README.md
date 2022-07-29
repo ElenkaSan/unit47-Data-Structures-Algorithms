@@ -5,3 +5,6 @@
 ### 47.5 Stacks and Queues Exercise
 ### 47.6 Recursion
 ### 47.8 Trees
+### 47.9 Binary Search Trees
+### 47.10 Graphs
+### 47.11 Sorting Algorithms
